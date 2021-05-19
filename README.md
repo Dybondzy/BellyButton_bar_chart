@@ -25,13 +25,13 @@ Files
 Use the following links to download the Challenge starter codes.
 
 Download the bar chart starter code. (Links to an external site.)
-! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/BellyButton_bar_chart_starter_code.js
 
 Download the bubble chart starter code. (Links to an external site.)
-! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/BellyButton_bubble_chart_starter_code.js
 
 Download the gauge chart starter code. (Links to an external site.)
-! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/BellyButton_guage_starter_code.js
 
 
 Deliverable 1: Create a Horizontal Bar Chart (35 points)
