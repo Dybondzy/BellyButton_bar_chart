@@ -9,17 +9,30 @@ What You're Creating
 This new assignment consists of four technical analysis deliverables. You will submit the following:
 
 Deliverable 1: Create a Horizontal Bar Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+
 Deliverable 2: Create a Bubble Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bubble_chart.js
+
 Deliverable 3: Create a Gauge Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/guage_chart.js
+
 Deliverable 4: Customize the Dashboard
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/chart.js
+
+
 Files
 Use the following links to download the Challenge starter codes.
 
 Download the bar chart starter code. (Links to an external site.)
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
 
 Download the bubble chart starter code. (Links to an external site.)
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
 
 Download the gauge chart starter code. (Links to an external site.)
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+
 
 Deliverable 1: Create a Horizontal Bar Chart (35 points)
 Deliverable 1 Instructions
@@ -164,10 +177,17 @@ Once you’re ready to submit, make sure to check your work against the rubric t
 As a reminder, the deliverables for this Challenge are as follows:
 
 Deliverable 1: Create a Horizontal Bar Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bar_chart.js
+
 Deliverable 2: Create a Bubble Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/bubble_chart.js
+
 Deliverable 3: Create a Gauge Chart
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/guage_chart.js
+
 Deliverable 4: Customize the Dashboard
-Upload the following to your GitHub pages repository:
+! https://github.com/Dybondzy/BellyButton_bar_chart/blob/main/chart.js
+
 
 The updated index.html file.
 The charts.js file, which should be in the js folder of the static folder.
